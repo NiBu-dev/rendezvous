@@ -1,2 +1,0 @@
-# rendezvous
-Intelligent Transportation System
